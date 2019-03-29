@@ -14,6 +14,7 @@ class SeatSelector extends Component {
 
   render() {
     const { data, numberOfSeats } = this.state
+    console.log(numberOfSeats)
     return (
       <div>
         <SeatingGrid seatingData={data}></SeatingGrid>

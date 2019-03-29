@@ -116,6 +116,7 @@ class SeatingGrid extends Component {
                     "AreaCode": AreaCode,
                     "AreaDesc": AreaDesc
                 }
+                console.log(seatData)
 
                 row.push(<Seat grid-seat-num={seatRow.GridRowId} seat-number={seat.SeatNumber} seat-status={seat.SeatStatus} ></Seat>)
                 realSeatIndex++
