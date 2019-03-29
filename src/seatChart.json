@@ -6,7 +6,7 @@
       "intMinSeatId": 1,
       "objArea": [
         {
-          "AreaDesc": "VIP",
+          "AreaDesc": "Standard",
           "AreaCode": "0000000003",
           "AreaNum": "1",
           "HasCurrentOrder": true,
@@ -106,7 +106,7 @@
           ]
         },
         {
-          "AreaDesc": "Standard",
+          "AreaDesc": "VIP",
           "AreaCode": "0000000003",
           "AreaNum": "1",
           "HasCurrentOrder": true,
