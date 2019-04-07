@@ -7,8 +7,7 @@
       "objArea": [
         {
           "AreaDesc": "Standard",
-          "AreaCode": "0000000003",
-          "AreaNum": "1",
+          "AreaId": "1",
           "HasCurrentOrder": true,
           "objRow": [
             {
@@ -36,24 +35,34 @@
                   "SeatNumber": 4
                 },
                 {
-                  "GridSeatNum": 7,
-                  "SeatStatus": "1",
+                  "GridSeatNum": 5,
+                  "SeatStatus": "0",
                   "SeatNumber": 5
                 },
                 {
-                  "GridSeatNum": 8,
+                  "GridSeatNum": 6,
                   "SeatStatus": "0",
                   "SeatNumber": 6
                 },
                 {
-                  "GridSeatNum": 9,
+                  "GridSeatNum": 7,
                   "SeatStatus": "0",
                   "SeatNumber": 7
                 },
                 {
-                  "GridSeatNum": 10,
+                  "GridSeatNum": 8,
                   "SeatStatus": "0",
                   "SeatNumber": 8
+                },
+                {
+                  "GridSeatNum": 9,
+                  "SeatStatus": "0",
+                  "SeatNumber": 9
+                },
+                {
+                  "GridSeatNum": 10,
+                  "SeatStatus": "0",
+                  "SeatNumber": 10
                 }
               ]
             },
@@ -82,35 +91,37 @@
                   "SeatNumber": 4
                 },
                 {
-                  "GridSeatNum": 7,
+                  "GridSeatNum": 5,
                   "SeatStatus": "0",
                   "SeatNumber": 5
                 },
                 {
-                  "GridSeatNum": 8,
+                  "GridSeatNum": 6,
                   "SeatStatus": "0",
                   "SeatNumber": 6
                 },
                 {
-                  "GridSeatNum": 9,
+                  "GridSeatNum": 7,
                   "SeatStatus": "0",
                   "SeatNumber": 7
                 },
                 {
-                  "GridSeatNum": 10,
+                  "GridSeatNum": 8,
                   "SeatStatus": "0",
                   "SeatNumber": 8
+                },
+                {
+                  "GridSeatNum": 9,
+                  "SeatStatus": "0",
+                  "SeatNumber": 9
+                },
+                {
+                  "GridSeatNum": 10,
+                  "SeatStatus": "0",
+                  "SeatNumber": 10
                 }
               ]
-            }
-          ]
-        },
-        {
-          "AreaDesc": "VIP",
-          "AreaCode": "0000000003",
-          "AreaNum": "1",
-          "HasCurrentOrder": true,
-          "objRow": [
+            },
             {
               "GridRowId": 3,
               "PhyRowId": "C",
@@ -164,6 +175,193 @@
                   "GridSeatNum": 10,
                   "SeatStatus": "0",
                   "SeatNumber": 10
+                }
+              ]
+            },
+            {
+              "GridRowId": 3,
+              "PhyRowId": "D",
+              "objSeat": [
+                {
+                  "GridSeatNum": 1,
+                  "SeatStatus": "0",
+                  "SeatNumber": 1
+                },
+                {
+                  "GridSeatNum": 2,
+                  "SeatStatus": "0",
+                  "SeatNumber": 2
+                },
+                {
+                  "GridSeatNum": 3,
+                  "SeatStatus": "0",
+                  "SeatNumber": 3
+                },
+                {
+                  "GridSeatNum": 8,
+                  "SeatStatus": "0",
+                  "SeatNumber": 4
+                },
+                {
+                  "GridSeatNum": 9,
+                  "SeatStatus": "0",
+                  "SeatNumber": 5
+                },
+                {
+                  "GridSeatNum": 10,
+                  "SeatStatus": "0",
+                  "SeatNumber": 6
+                }
+              ]
+            },
+            {
+              "GridRowId": 3,
+              "PhyRowId": "E",
+              "objSeat": [
+                {
+                  "GridSeatNum": 1,
+                  "SeatStatus": "0",
+                  "SeatNumber": 1
+                },
+                {
+                  "GridSeatNum": 2,
+                  "SeatStatus": "0",
+                  "SeatNumber": 2
+                },
+                {
+                  "GridSeatNum": 3,
+                  "SeatStatus": "0",
+                  "SeatNumber": 3
+                },
+                {
+                  "GridSeatNum": 8,
+                  "SeatStatus": "0",
+                  "SeatNumber": 4
+                },
+                {
+                  "GridSeatNum": 9,
+                  "SeatStatus": "0",
+                  "SeatNumber": 5
+                },
+                {
+                  "GridSeatNum": 10,
+                  "SeatStatus": "0",
+                  "SeatNumber": 6
+                }
+              ]
+            },
+            {
+              "GridRowId": 3,
+              "PhyRowId": "F",
+              "objSeat": [
+                {
+                  "GridSeatNum": 1,
+                  "SeatStatus": "0",
+                  "SeatNumber": 1
+                },
+                {
+                  "GridSeatNum": 2,
+                  "SeatStatus": "0",
+                  "SeatNumber": 2
+                },
+                {
+                  "GridSeatNum": 3,
+                  "SeatStatus": "0",
+                  "SeatNumber": 3
+                },
+                {
+                  "GridSeatNum": 8,
+                  "SeatStatus": "0",
+                  "SeatNumber": 4
+                },
+                {
+                  "GridSeatNum": 9,
+                  "SeatStatus": "0",
+                  "SeatNumber": 5
+                },
+                {
+                  "GridSeatNum": 10,
+                  "SeatStatus": "0",
+                  "SeatNumber": 6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "AreaDesc": "VIP Tables",
+          "AreaId": "2",
+          "HasCurrentOrder": true,
+          "objRow": [
+            {
+              "GridRowId": 4,
+              "PhyRowId": "T",
+              "objSeat": [
+                {
+                  "GridSeatNum": 1,
+                  "SeatStatus": "0",
+                  "SeatNumber": 1
+                },
+                {
+                  "GridSeatNum": 2,
+                  "SeatStatus": "0",
+                  "SeatNumber": 2
+                },
+                {
+                  "GridSeatNum": 5,
+                  "SeatStatus": "0",
+                  "SeatNumber": 3
+                },
+                {
+                  "GridSeatNum": 6,
+                  "SeatStatus": "0",
+                  "SeatNumber": 4
+                },
+                {
+                  "GridSeatNum": 9,
+                  "SeatStatus": "0",
+                  "SeatNumber": 5
+                },
+                {
+                  "GridSeatNum": 10,
+                  "SeatStatus": "0",
+                  "SeatNumber": 6
+                }
+              ]
+            },
+            {
+              "GridRowId": 4,
+              "PhyRowId": "TT",
+              "objSeat": [
+                {
+                  "GridSeatNum": 1,
+                  "SeatStatus": "0",
+                  "SeatNumber": 1
+                },
+                {
+                  "GridSeatNum": 2,
+                  "SeatStatus": "0",
+                  "SeatNumber": 2
+                },
+                {
+                  "GridSeatNum": 5,
+                  "SeatStatus": "0",
+                  "SeatNumber": 3
+                },
+                {
+                  "GridSeatNum": 6,
+                  "SeatStatus": "0",
+                  "SeatNumber": 4
+                },
+                {
+                  "GridSeatNum": 9,
+                  "SeatStatus": "0",
+                  "SeatNumber": 5
+                },
+                {
+                  "GridSeatNum": 10,
+                  "SeatStatus": "0",
+                  "SeatNumber": 6
                 }
               ]
             }

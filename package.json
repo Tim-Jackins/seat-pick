@@ -3,10 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "bootstrap": "^4.3.1",
     "jquery": "^3.3.1",
     "react": "^16.8.5",
     "react-dom": "^16.8.5",
     "react-scripts": "2.1.8",
+    "reactstrap": "^7.1.0",
     "typescript": "^3.3.4000"
   },
   "scripts": {
