@@ -21,17 +21,17 @@
                 },
                 {
                   "GridSeatNum": 2,
-                  "SeatStatus": "0",
+                  "SeatStatus": "1",
                   "SeatNumber": 2
                 },
                 {
                   "GridSeatNum": 3,
-                  "SeatStatus": "0",
+                  "SeatStatus": "1",
                   "SeatNumber": 3
                 },
                 {
                   "GridSeatNum": 4,
-                  "SeatStatus": "0",
+                  "SeatStatus": "1",
                   "SeatNumber": 4
                 },
                 {
@@ -177,7 +177,14 @@
                   "SeatNumber": 10
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "AreaDesc": "Side seating",
+          "AreaId": "1",
+          "HasCurrentOrder": true,
+          "objRow": [
             {
               "GridRowId": 3,
               "PhyRowId": "D",
